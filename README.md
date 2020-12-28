@@ -1,10 +1,68 @@
-# Angular11Pagination
+# Angular 11 Pagination example using ngx-pagination
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
+For more detail, please visit:
+> [Angular 11 Pagination example using ngx-pagination](https://bezkoder.com/angular-11-pagination-ngx/)
+
+Server side Pagination for this app:
+> [Node.js Express Pagination with MySQL](https://bezkoder.com/node-js-sequelize-pagination-mysql/)
+
+> [Node.js Express Pagination with PostgreSQL](https://bezkoder.com/node-js-pagination-postgresql/)
+
+> [Node.js Express Pagination with MongoDB](https://bezkoder.com/node-js-mongodb-pagination/)
+
+> [Spring Boot Pagination and Filter example](https://bezkoder.com/spring-boot-pagination-filter-jpa-pageable/)
+
+> [Spring Boot MongoDB Pagination example with Spring Data](https://bezkoder.com/spring-boot-mongodb-pagination/)
+
+More Practice:
+> [Angular 11 CRUD Application example with Web API](https://bezkoder.com/angular-11-crud-app/)
+
+> [Angular 11 JWT Authentication example with Web Api](https://bezkoder.com/angular-11-jwt-auth/)
+
+> [Angular 11 File Upload example with progress bar](https://bezkoder.com/angular-11-file-upload/)
+
+Fullstack with Node.js Express:
+> [Angular 11 + Node.js Express + MySQL](https://bezkoder.com/angular-11-node-js-express-mysql/)
+
+> [Angular 11 + Node.js Express + PostgreSQL](https://bezkoder.com/angular-11-node-js-express-postgresql/)
+
+> [Angular 11 + Node.js Express + MongoDB](https://bezkoder.com/angular-11-mongodb-node-js-express/)
+
+> [Angular 11 + Node.js Express: JWT Authentication & Authorization example](https://bezkoder.com/node-js-angular-11-jwt-authentication/)
+
+Fullstack with Spring Boot:
+> [Angular 11 + Spring Boot + MySQL](https://bezkoder.com/angular-11-spring-boot-crud/)
+
+> [Angular 11 + Spring Boot + PostgreSQL](https://bezkoder.com/angular-11-spring-boot-postgresql/)
+
+> [Angular 11 + Spring Boot + MongoDB](https://bezkoder.com/angular-11-spring-boot-mongodb/)
+
+> [Angular 11 + Spring Boot: File upload example](https://bezkoder.com/angular-11-spring-boot-file-upload/)
+
+> [Angular 11 + Spring Boot: JWT Authentication & Authorization example](https://bezkoder.com/angular-11-spring-boot-jwt-auth/)
+
+Fullstack with Django:
+> [Angular 11 + Django Rest Framework](https://bezkoder.com/django-angular-11-crud-rest-framework/)
+
+> [Angular 11 + Django + MySQL](https://bezkoder.com/django-angular-mysql/)
+
+> [Angular 11 + Django + PostgreSQL](https://bezkoder.com/django-angular-postgresql/)
+
+Serverless with Firebase:
+> [Angular 11 Firebase CRUD Realtime DB | AngularFireDatabase](https://bezkoder.com/angular-11-firebase-crud/)
+
+> [Angular 11 Firestore CRUD | AngularFireStore](https://bezkoder.com/angular-11-firestore-crud-angularfirestore/)
+
+> [Angular 11 Upload File to Firebase Storage example](https://bezkoder.com/angular-11-file-upload-firebase-storage/)
+
+Integration (run back-end & front-end on same server/port)
+> [How to Integrate Angular with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)
+
+> [How to Integrate Angular 11 with Spring Boot Rest API](https://bezkoder.com/integrate-angular-11-spring-boot/)
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -24,4 +82,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
